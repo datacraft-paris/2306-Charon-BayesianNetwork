@@ -39,7 +39,7 @@ Explore the real-world case study in the case_study directory.
 The course is structured around a lecture, accompanied by a set of slides (cours_BN.pdf). The lectures are designed to provide you with a theoretical foundation for understanding Bayesian Networks.
 
 ### Exercises
-The exercises directory (Exos_BN) contains a set of hands-on exercises and assignments to reinforce your understanding of Bayesian Networks and pyAgrum. These exercises cover various topics and levels of difficulty. Feel free to work through them at your own pace and use the provided solutions for self-assessment.
+The exercises directory contains a set of hands-on exercises and assignments to reinforce your understanding of Bayesian Networks and pyAgrum. These exercises cover various topics and levels of difficulty. Feel free to work through them at your own pace and use the provided solutions for self-assessment.
 
 ### Real-World Case Study
 In the case_study directory, you will find a real-world case study that applies Bayesian Networks to a practical problem. This case study will give you an opportunity to see how Bayesian Networks can be used to model and solve complex, real-world scenarios.
