@@ -7,14 +7,14 @@ A repo to gather every piece of work for the workshop.
 Welcome to the Bayesian Networks Workshop GitHub repository! This repository contains materials for a comprehensive course on Bayesian Networks, including lecture notes, exercises, and a real-world case study. Whether you're new to Bayesian Networks or looking to deepen your understanding, this course is designed to help you master this powerful probabilistic modeling technique thanks to a python library : pyAgrum.
 
 ### Table of Contents
-Introduction
-Course Content
-Getting Started
-Course Structure
-Exercises
-Real-World Case Study
-Contributing
-License
+- Introduction
+- Course Content
+- Getting Started
+- Course Structure
+- Exercises
+- Real-World Case Study
+- Contributing
+- License
 
 ### Introduction
 Bayesian Networks are a fundamental tool in the field of probabilistic graphical models. They are used to represent and reason about uncertain knowledge and are applied in various domains, including machine learning, artificial intelligence, and decision support systems. This course aims to provide you with a solid foundation in Bayesian Networks and equip you with practical skills to apply them to real-world problems.
