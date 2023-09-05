@@ -4,7 +4,7 @@ A repo to gather every piece of work for the workshop.
 
 ## Workshop on Bayesian Networks
 
-Welcome to the Bayesian Networks Workshop GitHub repository! This repository contains materials for a comprehensive course on Bayesian Networks, including lecture notes, exercises, and a real-world case study. Whether you're new to Bayesian Networks or looking to deepen your understanding, this course is designed to help you master this powerful probabilistic modeling technique thanks to a python library : pyAgrum.
+Welcome to the Bayesian Networks Workshop GitHub repository! This repository contains materials for a comprehensive course on Bayesian Networks, including lecture notes, exercises, and a real-world case study. Whether you're new to Bayesian Networks or looking to deepen your understanding, this course is designed to help you master this powerful probabilistic modeling technique thanks to a Python library: [pyAgrum](https://agrum.gitlab.io/).
 
 ### Table of Contents
 - Introduction
@@ -26,7 +26,7 @@ The course is divided into several modules, each covering a specific aspect of B
 2. Inference in Bayesian Networks
 3. Classification from a Bayesian Network
 4. Learning Bayesian Networks from Data
-5. Introduction to aGrUM/pyAgrum
+5. Introduction to [aGrUM/pyAgrum](https://agrum.gitlab.io/)
 
 ### Getting Started
 To get started with the course, follow these steps:
